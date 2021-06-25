@@ -2,12 +2,13 @@ body {
     background-image: url("../img/vecteezy_filmstrip_1195073.webp");
     background-position: bottom;
 }
-section {
+header {
     text-align: center;
 }
 .text-container {
     background-color: rgba(255, 255, 255, 0.9);
     display: inline-block;
+    border-radius: 20px;
 }
 h1 {
     color: rgb(60, 179, 113);
