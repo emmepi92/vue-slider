@@ -1,16 +1,24 @@
 body {
-    margin-top: 20px;
+    background-image: url("../img/vecteezy_filmstrip_1195073.webp");
+    background-position: bottom;
+}
+section {
+    margin: 0 auto;
+
+}
+.text-container {
+    text-align: center;
+    background-color: white;
 }
 h1 {
-    text-align: center;
     color: rgb(60, 179, 113);
     font-size: 70px;
     font-weight: bold;
     margin-bottom: 20px;
 }
 p {
-    text-align: center;
     font-size: 30px;
+    padding-bottom: 24px;
 }
 .slider-container {
     position: relative;
@@ -19,6 +27,8 @@ p {
 .slider-container img{
     width: 100%;
     border-radius: 30px;
+    border: 3px solid white;
+    box-shadow: 20px 10px 10px;
 }
 i.fas {
     font-size: 40px;
