@@ -1,6 +1,17 @@
 body {
     margin-top: 20px;
 }
+h1 {
+    text-align: center;
+    color: rgb(60, 179, 113);
+    font-size: 70px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+p {
+    text-align: center;
+    font-size: 30px;
+}
 .slider-container {
     position: relative;
 }
