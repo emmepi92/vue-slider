@@ -3,22 +3,22 @@ body {
     background-position: bottom;
 }
 section {
-    margin: 0 auto;
-
+    text-align: center;
 }
 .text-container {
     text-align: center;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.9);
+    display: inline-block;
 }
 h1 {
     color: rgb(60, 179, 113);
     font-size: 70px;
     font-weight: bold;
-    margin-bottom: 20px;
+    margin-bottom: 18px;
 }
 p {
     font-size: 30px;
-    padding-bottom: 24px;
+    padding-bottom: 18px;
 }
 .slider-container {
     position: relative;
