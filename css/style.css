@@ -1,0 +1,24 @@
+.slider-container {
+    position: relative;
+}
+
+.slider-container img{
+    width: 100%;
+}
+i.fas {
+    font-size: 40px;
+    color: rgb(60, 179, 113);
+}
+.dots-container {
+    width: 100%;
+    text-align: center;
+}
+.fa-dot-circle {
+    color: rgb(60, 179, 113);
+    margin: 10px;
+    position: relative;
+    bottom: 100px;
+}
+i.color {
+    color: white;
+}
