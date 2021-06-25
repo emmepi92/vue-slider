@@ -49,4 +49,5 @@ i.color {
 .fa-arrow-circle-left {
     box-shadow: 5px 5px 3px #888;
     border-radius: 22px;
+    background-color: white;
 }
